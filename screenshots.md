@@ -1,4 +1,6 @@
+1. Master jenkins node server and other two slave node servers
 <img width="952" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/83c210ab-07e8-4d6a-bfa6-051008b769e3">
+
 
 <img width="641" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/08869551-3faf-4eae-91f5-3c1e9af9c063">
 
