@@ -17,6 +17,8 @@
 
 <img width="952" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/3d707f4d-a1d0-4c1e-8df3-99613f095430">
 
+<img width="959" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/8c8a7019-01e5-42e9-bb48-f0dc0e6ae8ee">
+
 
 Application deployed to kubernetes cluster
 <img width="944" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/42c6c083-c7a1-4de4-8f0a-1ac71f069f4f">
