@@ -7,13 +7,13 @@ Pre-requisites:
 
  Steps required:
 
- Step # 1 - Create Maven3 variable under Global tool configuration in Jenkins
+ Step 1 - Create Maven3 variable under Global tool configuration in Jenkins
  -----------------
- Step #2 - Create Credentials for connecting to Kubernetes Cluster using kubeconfig
+ Step 2 - Create Credentials for connecting to Kubernetes Cluster using kubeconfig
  -------------------
-Step # 3 - Create a pipeline in Jenkins
+Step 3 - Create a pipeline in Jenkins
 -------------------
-Step # 4 - Copy the pipeline code from below
+Step 4 - Copy the pipeline code from below
 --------------------
 Step # 5 - Build the pipeline
 --------------------
