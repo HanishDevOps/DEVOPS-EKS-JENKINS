@@ -1,4 +1,4 @@
-1. Master jenkins node server and other two slave node servers
+ Master jenkins node server and other two slave node servers
 <img width="952" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/83c210ab-07e8-4d6a-bfa6-051008b769e3">
 
 
@@ -23,4 +23,5 @@
 
 
 Application deployed to kubernetes cluster
+
 <img width="944" alt="image" src="https://github.com/HanishDevOps/DEVOPS-EKS-JENKINS/assets/150304178/42c6c083-c7a1-4de4-8f0a-1ac71f069f4f">
