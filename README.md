@@ -15,7 +15,7 @@ Pre-requisites:
  -------------------
 Step 3 - Create a pipeline in Jenkins
 -------------------
-Step 4 - Copy the pipeline code from below
+Step 4 - Create the pipeline code 
 --------------------
 Step # 5 - Build the pipeline
 --------------------
